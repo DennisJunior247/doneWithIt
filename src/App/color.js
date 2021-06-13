@@ -1,0 +1,15 @@
+const light = {
+  primary: '#0753AB',
+  secondary: '#FFD250',
+  white: '#F0FZEF',
+  grey: '#00000020',
+  greyFair: '#c4c4c4',
+  lightBlueish: '#e2eef2',
+  lightDark: 'rgba(0,0,0,0.5)',
+  totalCreditExpectedColor: '#FDF9EE',
+  totalCreditColor: '#FBE7ED',
+  totalExpensesColor: '#E0E9E9',
+  totalPropertiesColor: '#E5EAFD',
+  totaloccupantsColor: '#FBEBDO',
+  green: '#228B22',
+};
